@@ -12,5 +12,5 @@ public class App1Test
 {
 	@org.junit.Test
 	public  void get() {
-	System.out.println("From test");
+	System.out.println("From test it is running");
 }}
