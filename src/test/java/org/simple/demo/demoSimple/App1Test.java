@@ -7,8 +7,10 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class App1Test 
    
-{public static void main(String[] args) {
+{
+	@org.junit.Test
+	public  void get() {
 	System.out.println("From test");
 }}
